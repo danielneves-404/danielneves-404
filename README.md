@@ -1,6 +1,6 @@
-Bem Vinde ao meu perfil!
+Bem vindo(a) ao meu perfil!
 
-Oie! Me chamo Daniel Neves e estou aqui para dividir com você a minha experiência como estudante de Engenharia de Software e desenvolvedor em construção. Estou sempre buscando aprender mais, melhorar minhas habilidades e trilhar meu caminho dentro da tecnologia com equilíbrio e constância.
+Oi, me chamo Daniel Neves e estou aqui para dividir com você a minha experiência como estudante de Engenharia de Software e desenvolvedor em construção. Estou sempre buscando aprender mais, melhorar minhas habilidades e trilhar meu caminho dentro da tecnologia com equilíbrio e constância.
 
 Visite meu perfil e me acompanhe nas redes!
 
